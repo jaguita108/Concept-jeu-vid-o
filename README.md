@@ -52,7 +52,7 @@ Public cible Fans de jeu RPG d'action et d'aventure comme: *Cyberpunk 2077, The 
 
 ## Ce qui le distingue de la concurrence
 -Chaque boss modifie réellement le style de combat du joueur.
--Histoire poignante et dramatique plus forte que dans la majorité des souls-like.
+-Histoire émouvante et dramatique plus forte que dans la majorité des souls-like.
 
 ## Pourquoi il attirerait des investisseurs Kickstarter
 -Concept clair, visuellement fort et facilement marketable.
