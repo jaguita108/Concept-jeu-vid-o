@@ -40,8 +40,11 @@ Public cible Fans de jeu RPG d'action et d'aventure comme: *Cyberpunk 2077, The 
 # Description des tâches principales:
 ## Les phases de développement
 -**Préproduction**: (Créer un concept, faire un storyboard, définir les mécaniques du jeu et la validation du concept)
+
 -**Production**: (Création des modèles 3D, programmation, effets sonores et musique)
+
 -**Postproduction**: (Optimisation des performances, ajout d'effets visuels, tester la qualité du jeu)
+
 -**Opération**: (Marketing, trailer officiel, mise en ligne du jeu, patches et mises à jours pour améliorer l'expérience de jeu.)
 # Conclusion:
 ## Ce qui rend le projet innovant:
