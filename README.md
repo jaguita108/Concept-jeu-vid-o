@@ -39,16 +39,15 @@ Public cible Fans de jeu RPG d'action et d'aventure comme: *Cyberpunk 2077, The 
 -Grande variété d'enemis
 # Description des tâches principales:
 ## Les phases de développement
- 1. **Préproduction**: (Créer un concept, faire un storyboard, définir les mécaniques du jeu et la validation du concept)
- 2. **Production**: (Création des modèles 3D, programmation, effets sonores et musique)
- 3. **Postproduction**: (Optimisation des performances, ajout d'effets visuels, tester la qualité du jeu)
- 4. **Opération**: (Marketing, trailer officiel, mise en ligne du jeu, patches et mises à jours pour améliorer l'expérience de jeu.)
+**Préproduction**: (Créer un concept, faire un storyboard, définir les mécaniques du jeu et la validation du concept)
+**Production**: (Création des modèles 3D, programmation, effets sonores et musique)
+**Postproduction**: (Optimisation des performances, ajout d'effets visuels, tester la qualité du jeu)
+**Opération**: (Marketing, trailer officiel, mise en ligne du jeu, patches et mises à jours pour améliorer l'expérience de jeu.)
 # Conclusion:
 ## Ce qui rend le projet innovant:
 -Open world massif et une histoire émotionnelle.
 -Exploration récompensée par de nouvelles compétences jamais vues auparavant!
 -Concept unique d'avoir 2 mondes alternatifs pour progresser dans la quête du héros.
-
 ## Ce qui le distingue de la concurrence
 -Chaque boss modifie le style de combat du joueur.
 -L'histoire donne envie de continuer.
